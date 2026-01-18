@@ -331,7 +331,7 @@ Before running this project, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hoangsonww/MERN-Stack-Ecommerce-App.git
+   git clone [https://github.com/Naman2003-gupta/NovaMart]
    cd MERN-Stack-Ecommerce-App  # Fix the path if necessary
    ```
 
