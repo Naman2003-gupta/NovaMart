@@ -1,4 +1,4 @@
-# NovaMart: A MERN-Stack E-commerce Application
+# NovaMart: A MERN-Stack E-commerce Application by Naman Mahajan
 
 Welcome to **NovaMart**, a **MERN-Stack E-commerce Application**! This project is a working demo of a full-stack web application that was built using the MERN stack (MongoDB, Express.js, React.js, Node.js). Additionally, it also includes features such as user authentication, checkout process, product recommendations with vector search, and more!
 
