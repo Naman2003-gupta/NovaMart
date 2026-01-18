@@ -554,7 +554,7 @@ This guide enables you to view, test, and utilize the API. You can generate clie
 
 ## Deployment
 
-Fusion Electronics supports a wide range of deployment platforms, including Vercel, Render, AWS, and more. You can deploy both the frontend and backend servers to your preferred cloud provider. 
+NovaMart supports a wide range of deployment platforms, including Vercel, Render, AWS, and more. You can deploy both the frontend and backend servers to your preferred cloud provider. 
 
 It also supports containerized and enterprise-grade deployments (blue/green deployments, canary releases, etc.) using Docker and Kubernetes. For more details on deployments, see the [DEPLOYMENT GUIDE](DEPLOYMENT.md) file.
 
@@ -593,6 +593,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-Thank you for exploring **Fusion Electronics - a MERN Stack E-commerce Application**! If you have any questions or feedback, feel free to reach out or open an issue.
+Thank you for exploring **NovaMart - a MERN Stack E-commerce Application**! If you have any questions or feedback, feel free to reach out or open an issue.
 
 **Happy coding! 🚀**
